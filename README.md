@@ -1,6 +1,7 @@
 # Data sets
 
 This repository contains a selection of retrieval practice data sets collected using SlimStampen/MemoryLab.
+Note that the learning algorithms used in these datasets will be an older version of the algorithm that is currently used by the online learning platform.
 
 ## Contents
 
